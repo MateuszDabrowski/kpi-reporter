@@ -1,0 +1,11 @@
+# Checkpoints
+.ipynb_checkpoints/
+
+# Data points
+auth.key
+*.csv
+*.xls
+*.xlsx
+
+# Temp ignore
+KPI_Visualizer.ipynb
