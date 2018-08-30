@@ -6,3 +6,6 @@ auth.key
 *.csv
 *.xls
 *.xlsx
+
+# Other
+.DS_Store
